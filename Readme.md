@@ -16,4 +16,4 @@ Projeyi normal bir react projesi başlatır gibi başlatabilirsiniz.
 
 
 ### Projeyi Başlatın
-``npm i # Paketleri yükleyin``
+``npm run dev # Paketleri yükleyin``
